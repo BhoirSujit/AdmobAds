@@ -1,5 +1,3 @@
-package com.gameside.whatsmanager.usefullobjects;
-
 import android.content.Context;
 import android.util.Log;
 import androidx.annotation.NonNull;
